@@ -1,0 +1,36 @@
+QSNo:
+8
+QuestionType:
+Normal Question
+UpperText:
+Answer the Following Question:
+PicURL:
+NA
+AudioURL:
+NA
+VideoURL:
+NA
+Description:
+NA
+MainQuestion:
+What is the capital of Australia?
+MainQuestionOption:
+NA
+NA
+NA
+NA
+MainQuestionAnswer:
+Canberra
+Question1:
+NA
+Question1Answer:
+NA
+Question2:
+NA
+Question2Option:
+NA
+NA
+NA
+NA
+Question2Answer:
+NA

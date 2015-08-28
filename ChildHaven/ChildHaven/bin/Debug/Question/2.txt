@@ -1,0 +1,36 @@
+QSNo:
+2
+QuestionType:
+Picture Question Objective Type
+UpperText:
+Read about this animal:
+PicURL:
+2
+AudioURL:
+NA
+VideoURL:
+NA
+Description:
+This animal is typically a melanistic color variant of any of several species of larger cat. In the Americas, this animal may be black jaguars while in Asia and Africa, black leopards. Smaller wild cats, like jaguarundi, may also be black.
+MainQuestion:
+Now, what is this animals name?
+MainQuestionOption:
+Black Cat
+Black Tiger
+Black Panther
+Hyena
+MainQuestionAnswer:
+Black Panther
+Question1:
+NA
+Question1Answer:
+NA
+Question2:
+NA
+Question2Option:
+NA
+NA
+NA
+NA
+Question2Answer:
+NA

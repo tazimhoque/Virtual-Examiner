@@ -1,0 +1,36 @@
+QSNo:
+7
+QuestionType:
+Picture Question Objective Type
+UpperText:
+NA
+PicURL:
+7
+AudioURL:
+NA
+VideoURL:
+NA
+Description:
+Lets see how good are you at answering this question
+MainQuestion:
+Take two apples from three apples. How many do you have?
+MainQuestionOption:
+One
+Two
+Three
+None of these
+MainQuestionAnswer:
+Two
+Question1:
+NA
+Question1Answer:
+NA
+Question2:
+NA
+Question2Option:
+NA
+NA
+NA
+NA
+Question2Answer:
+NA

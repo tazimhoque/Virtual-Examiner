@@ -1,0 +1,36 @@
+QSNo:
+3
+QuestionType:
+Normal Question Objective Type
+UpperText:
+NA
+PicURL:
+NA
+AudioURL:
+NA
+VideoURL:
+NA
+Description:
+NA
+MainQuestion:
+25,24,22,19,15.......   Which number should come next in this series?
+MainQuestionOption:
+4
+5
+10
+14
+MainQuestionAnswer:
+10
+Question1:
+NA
+Question1Answer:
+NA
+Question2:
+NA
+Question2Option:
+NA
+NA
+NA
+NA
+Question2Answer:
+NA

@@ -1,0 +1,36 @@
+QSNo:
+10
+QuestionType:
+Descriptive Question Objective Type (No Image)
+UpperText:
+NA
+PicURL:
+NA
+AudioURL:
+NA
+VideoURL:
+NA
+Description:
+A mute person walks into a shop and wants to buy a toothbrush. By imitating the action of brushing his teeth, after successfully expressing himself to the shopkeeper he makes the purchase. Next, a blind person comes in to the shop wanting a pair of sunglasses.
+MainQuestion:
+How did he indicate he wants them?
+MainQuestionOption:
+By a written note
+Signalling to his eyes
+Asking for them
+Another way
+MainQuestionAnswer:
+Asking for them
+Question1:
+NA
+Question1Answer:
+NA
+Question2:
+NA
+Question2Option:
+NA
+NA
+NA
+NA
+Question2Answer:
+NA

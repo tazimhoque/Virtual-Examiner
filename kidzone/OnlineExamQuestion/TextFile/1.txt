@@ -1,0 +1,36 @@
+QSNo:
+1
+QuestionType:
+Picture Question
+UpperText:
+NA
+PicURL:
+1
+AudioURL:
+NA
+VideoURL:
+NA
+Description:
+He was a South African anti-apartheid revolutionary, politician, and philanthropist who served as President of South Africa from 1994 to 1999. He was South Africa's first black chief executive. He served over 27 years in prison, initially on Robben Island, and later in Pollsmoor Prison and Victor Verster Prison. He died of a lung infection on 5 December 2013. We all know this great man. But the question is,
+MainQuestion:
+What is his full name?
+MainQuestionOption:
+NA
+NA
+NA
+NA
+MainQuestionAnswer:
+Nelson Rolihlahla Mandela
+Question1:
+NA
+Question1Answer:
+NA
+Question2:
+NA
+Question2Option:
+NA
+NA
+NA
+NA
+Question2Answer:
+NA

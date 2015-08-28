@@ -1,0 +1,36 @@
+QSNo:
+5
+QuestionType:
+Picture Question
+UpperText:
+Cartoon!!
+PicURL:
+5
+AudioURL:
+NA
+VideoURL:
+NA
+Description:
+This animated cartoon film is created by William Hanna and Joseph Barbera for Metro-Goldwyn-Mayer, centering on a rivalry between a cat and a mouse whose chases include slapstick comedy.
+MainQuestion:
+What is the name of this cartoon series?
+MainQuestionOption:
+NA
+NA
+NA
+NA
+MainQuestionAnswer:
+Tom and Jerry
+Question1:
+NA
+Question1Answer:
+NA
+Question2:
+NA
+Question2Option:
+NA
+NA
+NA
+NA
+Question2Answer:
+NA

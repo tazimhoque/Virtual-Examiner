@@ -1,0 +1,36 @@
+QSNo:
+6
+QuestionType:
+Flash Question
+UpperText:
+Answer the questions below:
+PicURL:
+6
+AudioURL:
+NA
+VideoURL:
+NA
+Description:
+Madagascar is a computer-animated comedy film produced by DreamWorks Animation. The film tells the story of four Central Park Zoo animals. The Lion in this animation is the most popular animal at the Central Park Zoo. Now could you tell,
+MainQuestion:
+NA
+MainQuestionOption:
+NA
+NA
+NA
+NA
+MainQuestionAnswer:
+NA
+Question1:
+What is the name of that lion?
+Question1Answer:
+Alex
+Question2:
+How many penguins you saw in the picture?
+Question2Option:
+3
+4
+5
+6
+Question2Answer:
+4

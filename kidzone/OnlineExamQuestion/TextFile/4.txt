@@ -1,0 +1,36 @@
+QSNo:
+4
+QuestionType:
+Picture Question
+UpperText:
+NA
+PicURL:
+4
+AudioURL:
+NA
+VideoURL:
+NA
+Description:
+This animal is known as "river horse". It is a large, mostly herbivorous mammal in sub-Saharan Africa. After the elephant and rhinoceros, this is the third-largest type of land mammal and the heaviest extant artiodactyl.
+MainQuestion:
+Could you write the name of this animal?
+MainQuestionOption:
+NA
+NA
+NA
+NA
+MainQuestionAnswer:
+Hippopotamus
+Question1:
+NA
+Question1Answer:
+NA
+Question2:
+NA
+Question2Option:
+NA
+NA
+NA
+NA
+Question2Answer:
+NA

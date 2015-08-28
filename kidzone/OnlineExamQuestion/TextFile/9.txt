@@ -1,0 +1,36 @@
+QSNo:
+9
+QuestionType:
+Descriptive Question (No Image)
+UpperText:
+Tricky Arithmatic
+PicURL:
+NA
+AudioURL:
+NA
+VideoURL:
+NA
+Description:
+(Must be done in your head). Get 1000 and add 40 to it. Now add another 1000. Now add 30. Add another 1000. Now add 20. Now add anoher 1000, now add 10.
+MainQuestion:
+What is the answer?   (Answer should be in numerical form)
+MainQuestionOption:
+NA
+NA
+NA
+NA
+MainQuestionAnswer:
+4100
+Question1:
+NA
+Question1Answer:
+NA
+Question2:
+NA
+Question2Option:
+NA
+NA
+NA
+NA
+Question2Answer:
+NA
